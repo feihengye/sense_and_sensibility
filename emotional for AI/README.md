@@ -1,0 +1,1 @@
+​​This section discusses how AI integrates emotional capabilities to deliver emotional value to people.​​
