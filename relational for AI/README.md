@@ -1,1 +1,0 @@
-​​This section explains how AI integrates rational capabilities to deliver high-level expertise beyond human capacity.​​
