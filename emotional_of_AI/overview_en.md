@@ -138,50 +138,40 @@ This critique isn't to disparage progress, but to clarify boundaries. The LLM+mu
 
 ## Human Emotional Needs (The Emotional Animal)
 
-Modern society rarely grants us true freedom of choice - more often, we're left selecting the "least bad" option among limited alternatives. Those who master the art of compromise are deemed mature, while those who don't often find themselves emotionally suppressed. The prevalence of psychological issues suggests widespread suffering in our social fabric.
+In most cases, society doesn't grant us the right to choose, but rather the right not to choose (avoiding what appear to be the worst options). Those who know how to compromise are deemed mature, leading to suppressed emotions and a high proportion of people with psychological issues - a universal human condition. 
 
-### The Bureaucratic Emotional Trap
-Max Weber's "Bureaucracy" theory reveals how organizations:
-- Demand members assume "organizational roles" over authentic self-expression  
-- Enforce continuous "emotional labor" through:  
-  1. Long-term suppression of personal feelings  
-  2. Systematic masking of true opinions  
+Max Weber's "Bureaucracy" theory illustrates how individuals are often required to play "organizational roles" rather than express their true selves. To advance within organizations, members must chronically suppress personal emotions and authentic thoughts, engaging in continuous "emotional labor." 
 
-When human desires (our innate longing for beauty and meaning) remain chronically unfulfilled, people either:
-- Seek emotional outlets (healthy or otherwise)  
-- Become ticking "pressure cookers" of repressed emotions  
+This emotional suppression can be simplified as desire (the longing for beautiful things). When desires are chronically repressed:
+- Many actively seek outlets for release
+- Others become ticking "pressure cookers" that may explode at any moment
+Early identification and proactive intervention would benefit both individuals and society.
 
-Early recognition and intervention could benefit both individuals and society at large.
+In *Black Myth: Wukong*, the "Destined One" defeats six bosses representing sensory attachments (eye-seeing joy, ear-hearing anger, nose-smelling love, tongue-tasting thought, body-born sorrow, and mind-born desire), while collecting the six roots of the Great Sage (eye, ear, nose, tongue, body, and mind). In Buddhist philosophy, these are all considered impurities needing purification. 
 
-### Buddhist Perspective vs. Human Reality
-In *Black Myth: Wukong*, players defeat six bosses representing sensory attachments (eyes, ears, nose, tongue, body, mind) - the "Six Roots" requiring purification in Buddhist philosophy. Yet reality differs:
-1. Few attain enlightenment ("Buddhahood")  
-2. Most monastics spend lifetimes merely surviving within religious institutions  
-3. Humans fundamentally rely on these senses to experience the world  
+Yet in reality:
+1. Not everyone can attain Buddhahood - most practitioners spend their lives just scraping by in temples
+2. We rely on these six senses to perceive the world
 
-We derive "emotional value" when multisensory inputs trigger neurochemical rewards (dopamine, endorphins). While commercially valuable, not all emotional value is beneficial - consider the dark allure of:
-- Pornography  
-- Gambling  
-- Drugs  
+When multisensory information triggers dopamine and endorphin release, creating pleasure, we can say this information provides emotional value. While emotional value originates as a business term meaning profit potential, not all emotionally valuable things are beneficial (e.g., drugs, gambling, and pornography represent harmful emotional value).
 
-### Maslow's Hierarchy of Needs
-Human desires evolve through progressive stages:
+From Maslow's hierarchy of needs, we understand human desires progress through levels:
+1. Basic physiological and safety needs
+2. Social belonging and esteem 
+3. Self-actualization
 
-| **Need Level**       | **Primary Demographics**          | **Typical Manifestations**          |
-|-----------------------|-----------------------------------|--------------------------------------|
-| Physiological/Safety | Lower-income regions              | Basic survival necessities           |
-| Social/Esteem        | Middle-income populations         | Luxury goods, social media validation|
-| Self-Actualization   | Privileged minorities             | Creative fulfillment, philanthropy  |
+In practice:
+- Few reach self-actualization
+- Lower-income regions focus more on basic survival needs
+- Middle-income areas emphasize social and esteem needs
 
-When core needs go unmet, people frequently:
-- Develop psychological issues  
-- Seek substitute emotional value through:  
-  - Softcore entertainment  
-  - Lottery tickets  
-  - Cigarettes  
-  - Short-form video addiction  
+This reveals an inherent human truth: unfulfilled desires lead to psychological issues or compensatory behaviors seeking alternative emotional value. This explains the enduring popularity of:
+- Soft pornography
+- Lotteries  
+- Cigarettes
+- Short videos
 
-Society tacitly permits these "emotional safety valves" to maintain stability, only intervening with policies when problems escalate.
+These serve as societal pressure valves - when institutional guidance fails and policies/laws must intervene, problems have already escalated. When people cannot obtain what they desire, even unhealthy emotional outlets become necessary.
 
 ### Commercial Emotional Value Scenarios (Deepseek Summary)
 
