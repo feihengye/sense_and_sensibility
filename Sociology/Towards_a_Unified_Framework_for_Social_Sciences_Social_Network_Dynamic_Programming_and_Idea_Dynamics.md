@@ -1,6 +1,6 @@
 # Towards a Unified Framework for Social Sciences: Social Network Dynamic Programming and Idea Dynamics
 
-**Author**: [Author Name]  
+**Author**: [yefeiheng@gmail.com]  
 **Affiliation**: [Affiliation]  
 **Date**: June 26, 2026
 
